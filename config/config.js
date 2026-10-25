@@ -68,9 +68,7 @@ var config = {
     ],
 
     icon: [
-        ["./svg/github.svg", "https://github.com/happysnaker", "GitHub profile"],
-        ["./svg/博客.svg", "https://happysnaker.github.io/", "Technical blog"],
-        ["./svg/github.svg", "https://happysnaker.github.io/support/#from-resume", "Support via WeChat / Alipay"]
+        ["./svg/github.svg", "https://github.com/JoseSuchite", "GitHub profile"],
     ],
 
     url: [
