@@ -33,7 +33,7 @@ var config = {
     "</ul>",
         
     portfolio: [
-        ["./images/sage.png", "https://github.com/JoseSuchite/PoliticalBiasRadar", "PoliticalBiasRadar", "An AI model trained through Reinforcement Learning that will be capable of determining political biases of news articles."]
+        ["sage.png", "https://github.com/JoseSuchite/PoliticalBiasRadar", "PoliticalBiasRadar", "An AI model trained through Reinforcement Learning that will be capable of determining political biases of news articles."]
     ],
 
     work: [
