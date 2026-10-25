@@ -25,6 +25,13 @@ var config = {
 
     ],
 
+    skills_description: "<ul>" + 
+        "<li>C++</li>" +
+        "<li>Python</li>" +
+        "<li>Spanish</li>" +
+        "<li>Rudamentary Chinese</li>" + 
+    "</ul>",
+        
     portfolio: [
         
     ],
