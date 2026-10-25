@@ -5,7 +5,6 @@ var config = {
     age: "Nashville, TN",
     phone: '<a href="https://github.com/JoseSuchite" target="_blank">github.com/JoseSuchite</a>',
     email: "jose.suchite@hotmail.com",
-    qq: '<strong>Template saved you time?</strong> <a href="https://happysnaker.github.io/support/#from-resume" target="_blank">Tip ¥9.9 / ¥19.9 via WeChat / Alipay</a><br><strong>Portfolio still feels generic / student-ish?</strong> <a href="https://happysnaker.github.io/review/" target="_blank">Book a ¥29.9 quick read / ¥99 async review</a>',
     log: "Jose Suchite",
     excpect_work: "Journalism, Software Development, IT",
 
