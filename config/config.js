@@ -9,11 +9,11 @@ var config = {
     excpect_work: "Journalism, Software Development, IT",
 
     motto: [
-        "Build useful things, then explain them clearly.",
-        "Reliability is a feature.",
-        "Keep systems simple, observable, and operable.",
-        "Write less magic, ship more signal.",
-        "Good documentation compounds engineering impact."
+        "Not all those who wander are lost",
+        "Are you rushing or are you dragging",
+        "There's a point at 7000 RPM...",
+        "For realxing times, make it Suntory time",
+        "Choose your future. Choose Life."
     ],
 
     welcome: "Political/Computer Scientist<br>Welcome to my website!",
