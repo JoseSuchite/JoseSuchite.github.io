@@ -19,8 +19,7 @@ var config = {
     welcome: "Political/Computer Scientist<br>Welcome to my website!",
 
     about: "<p>Hello! My name is Jose Suchite and I am currently a student. I am dual majoring in Political Science and Computer Science.</p>" +
-        "<p></p>" +
-        "<p>近期我也在为 urfave/cli、go-chi/chi、GitHub Docs、Docker Docs、OpenTelemetry 等项目持续提交代码修复与工程相关贡献，把可复用经验沉淀成公开资产。</p>",
+        "<p></p>",
 
     skills: [
 
