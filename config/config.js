@@ -17,10 +17,10 @@ var config = {
         "Good documentation compounds engineering impact."
     ],
 
-    welcome: "Backend / Systems Engineer<br>Go · Java · Distributed Systems<br>Go / Java backend builder<br>Glad to have you here.",
+    welcome: "Political/Computer Scientist<br>Welcome to my website!",
 
-    about: "<p>你好，我是 Shirong Lu（happysnaker），专注 Go / Java 后端、分布式系统、RPC、可观测性与工程效率。</p>" +
-        "<p>我持续公开构建可复用的工程资产，例如 Go 服务脚手架、后端工程师成长清单、系统学习笔记与技术博客。</p>" +
+    about: "<p>Hello! My name is Jose Suchite and I am currently a student. I am dual majoring in Political Science and Computer Science.</p>" +
+        "<p></p>" +
         "<p>近期我也在为 urfave/cli、go-chi/chi、GitHub Docs、Docker Docs、OpenTelemetry 等项目持续提交代码修复与工程相关贡献，把可复用经验沉淀成公开资产。</p>",
 
     skills: [
